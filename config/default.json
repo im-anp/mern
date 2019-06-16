@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://anp_read_write:E@tdrinkc0de@anpcluster-lwfzk.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "anoopsecret"
+}
